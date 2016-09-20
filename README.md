@@ -1,9 +1,8 @@
-# Firefox profile + Marionette + geckodriver + Selenium + Ruby
+# Firefox profile + FirefoxDriver + Selenium + Ruby
 
 ## Prerequisites
 
-- [Firefox 48+](https://www.mozilla.org/en-US/firefox/new/)
-- [geckodriver](https://github.com/mozilla/geckodriver/) [v0.10.0](https://github.com/mozilla/geckodriver/releases)
+- [Firefox 47.0.1](https://ftp.mozilla.org/pub/firefox/releases/47.0.1/)
 
 ## Installation
 
@@ -16,5 +15,5 @@
 
 ## Links
 
-- https://github.com/zeljkofilipin/firefox-profile-marionette-geckodriver-selenium-ruby
-- [Marionette](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Marionette/WebDriver)
+- https://github.com/zeljkofilipin/firefox-profile-firefoxdriver-selenium-ruby
+- [FirefoxDriver](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver)
